@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: United Kingdom
+  adjective: British
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -96,8 +96,8 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: frontpage.heading_short
-  description: frontpage.instructions_shorter
+  title: 'Welcome to the UNsustainable Goals Explorer!'
+  description: 'Here you can find out all the ways that the globalists are trying to UNsustain us. But they are failing.'
 frontpage_introduction_banner:
   title: frontpage.intro_title
   description: frontpage.intro_body
