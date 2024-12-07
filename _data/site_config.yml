@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: United Kingdom
-  adjective: British
+  name: Australia
+  adjective: Australian
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -99,8 +99,8 @@ frontpage_goals_grid:
   title: 'Welcome to the UNsustainable Goals Explorer!'
   description: 'Here you can find out all the ways that the globalists are trying to UNsustain us. But they are failing.'
 frontpage_introduction_banner:
-  title: You have found the Plymouth Gin Distillery! Congratulations!  
-  description: Oh, sorry, I meant to say that if you're reading this, you're in Davos. 
+  title: Welcome to Diane's UNsustainable website! 
+  description: Here you can see all the ways that the UN is failing to meet their goals. 
 goal_image_base: 'https://open-sdg.org/sdg-translations/assets/img/goals'
 goal_image_extension: ''
 goals_page:
